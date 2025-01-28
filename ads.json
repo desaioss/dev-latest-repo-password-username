@@ -1,1 +1,18 @@
-{}
+{
+    "Username_password_authentication": {
+        "projectName": "Username_password_authentication",
+        "description": "username-password base authentication flow",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/dev-latest-repo-password-username",
+        "githubUri": "https://github.com/desaioss/dev-latest-repo-password-username",
+        "license": "apache-2.0",
+        "lastUpdated": "1738058440296",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
